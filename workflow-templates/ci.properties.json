@@ -1,0 +1,6 @@
+{
+  "name": "Pteris CI",
+  "description": "Lint, test, and build on every push to main.",
+  "iconName": "octicon-checklist",
+  "categories": ["Continuous integration"]
+}

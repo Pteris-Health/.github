@@ -1,0 +1,6 @@
+{
+  "name": "Pteris Release",
+  "description": "Automated changelog and GitHub releases with release-please.",
+  "iconName": "octicon-rocket",
+  "categories": ["Deployment"]
+}

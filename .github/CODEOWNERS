@@ -1,0 +1,7 @@
+* @Pteris-Health/leadership
+/profile/ @Pteris-Health/leadership @Pteris-Health/design
+/SECURITY.md @Pteris-Health/security @Pteris-Health/leadership
+/SECURITY.ru.md @Pteris-Health/security @Pteris-Health/leadership
+/.github/workflows/ @Pteris-Health/platform-devops
+/workflow-templates/ @Pteris-Health/platform-devops
+/.github/dependabot.yml @Pteris-Health/platform-devops
