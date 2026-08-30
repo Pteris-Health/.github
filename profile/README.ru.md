@@ -1,4 +1,4 @@
-![Pteris](assets/banner.png)
+![Pteris](assets/banner.ru.png)
 
 [English](README.md) · **Русский**
 
